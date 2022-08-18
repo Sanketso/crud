@@ -1,0 +1,15 @@
+body{
+  margin:0;
+}
+table{
+  background-color: blueviolet;
+}
+tr th{
+  font-size: larger;
+  width: 150px;
+  height: 50px;
+  background-color: brown;
+}
+td {
+  text-align: center;
+}
